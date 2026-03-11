@@ -14,11 +14,10 @@ Skills 🥇
 
 -> Rest Assured with Java
 
--> Cypress with JavaScript
-
 -> Playwright with JavaScript
 
 -> DSA: Intermediate
+
 
 ________________________________________________________________________________________________
 
